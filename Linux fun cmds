@@ -14,4 +14,4 @@ $ echo "Tecmint[dot]com is a community of Linux
 rig Command
 This command generates a random identity and address, every time. To run, this command you need to install ‘rig‘ using apt or yum.
 
-# rig
+# rig. 
