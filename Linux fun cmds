@@ -1,0 +1,17 @@
+. pv Command
+You might have seen simulating text in movies. It appears as, it is being typed in real time. Won’t it be nice, if you can have such an effect in terminal?
+
+This can be achieved, by installing ‘pv‘ command in your Linux system by using ‘apt‘ or ‘yum‘ tool. Let’s install ‘pv‘ command as shown.
+
+# yum install pv			[On RedHat based Systems]
+
+# sudo apt-get install pv	        [On Debian based Systems]
+Once, ‘pv‘ command installed successfully on your system, let’s try to run the following one liner command to see the real time text effect on the screen.
+
+$ echo "Tecmint[dot]com is a community of Linux
+
+
+rig Command
+This command generates a random identity and address, every time. To run, this command you need to install ‘rig‘ using apt or yum.
+
+# rig. 
